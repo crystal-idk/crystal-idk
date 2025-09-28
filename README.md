@@ -8,7 +8,7 @@
 - 🔭 **Currently working on:** Crystal Tool Suite — flagship toolkit under the Cry brand  
 - 👨‍💻 **All of my projects:** <a href="https://t.me/fnc42">t.me/fnc42</a>  
 - 🗺️ **Cultural roots:** French 🇫🇷 & Khmer 🇰🇭  
-- 🎨 **Passions:** Coding, UI/UX, sound design, communities  
+- 🎨 **Passions:** Coding,communities, making beats  
 - 📚 **Learning:** API integrations, advanced Python automation  
 - 📫 **Reach me on:** telegram — <a href="https://t.me/snipexx462">@snipexx462</a> • discord — supreme_xd_4666  
 - ⚡ **Fun fact:** _Sometimes lazy… but always curious_  
