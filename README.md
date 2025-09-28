@@ -65,10 +65,7 @@
 ### 🌟 Featured Projects  
 | Project | Description | Link |
 |---------|-------------|------|
-| **Crystal Tool Suite** | Multi-purpose toolkit under the Cry brand (automation, checkers, UI tools) | [Telegram](https://t.me/fnc42) |
-| **Cry Drumkit** | Sound design pack for producers & beatmakers | Coming soon… |
-| **Cry Web Dash** | Web-based dashboard for Cry tools with dark & pastel themes | Coming soon… |
-
+| **Crystal Tool Suite** | Multi-purpose toolkit under the Cry brand (automation, checkers, UI tools) | [Telegram](https://t.me/fnc42) 
 ---
 
 <p align="center">
