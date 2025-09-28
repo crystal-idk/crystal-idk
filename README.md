@@ -9,7 +9,7 @@
 - 👨‍💻 **All of my projects:** t.me/fnc42  
 - 🗺️ **Cultural roots:** French 🇫🇷 & Khmer 🇰🇭  
 - 🎨 **Passions:** Coding, UI/UX, sound design, communities  
-- 📚 **Learning:** React, Vue, GSAP, API integrations, advanced Python automation  
+- 📚 **Learning:** API integrations, advanced Python automation  
 - 📫 **Reach me on:** telegram — @snipexx462 • discord — supreme_xd_4666  
 - ⚡ **Fun fact:** _Sometimes lazy… but always curious_  
 
@@ -26,12 +26,9 @@
 
 ### 🛠️ Languages & Tech Stack  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 </p>
 
 ---
