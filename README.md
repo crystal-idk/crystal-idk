@@ -8,7 +8,7 @@ I work on checkers, bypass scripts, Discord/Telegram tools, and more under the *
 ## 🧠 About Me
 
 - 🛠️ Currently building: `Cry Checker`, `Crystal Tool` (By the way, it's the name I used for all the checkers)
-- 💬 I mostly work with: `Python`, ``HTML`
+- 💬 I mostly work with: `Python`, `HTML`
 - 🌍 Languages: French (native), English (fluent & social networks, foregin peoples)  
 - 📟 Contact me on Telegram: [@snipexx462](https://t.me/snipexx462)
 
