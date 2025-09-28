@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there, I'm Slayer!
 
-<!--
-**crystal-idk/crystal-idk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **French developer** passionate about coding tools, automating things, and building dark-themed UIs.  
+I work on checkers, bypass scripts, Discord/Telegram tools, and more under the **Crystal** or **Cry** (@cry) brand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🛠️ Currently building: `Cry Checker`, `Crystal Tool` (By the way, it's the name I used for all the checkers)
+- 💬 I mostly work with: `Python`, ``HTML`
+- 🌍 Languages: French (native), English (fluent & social networks, foregin peoples)  
+- 📟 Contact me on Telegram: [@snipexx462](https://t.me/snipexx462)
+
+---
+
+## 🧰 Tech Stack
+
+```text
+Languages:     Python • JavaScript • HTML/CSS • Bash • C++
+Tools:         Sublime Text • Termux • FL Studio 
+UI Design:     TailwindCSS  • CLI
+OS:            Windows 11/10 • Termux (Android)
